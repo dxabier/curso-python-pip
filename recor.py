@@ -1,0 +1,2 @@
+var = 'devars'
+print(var)
